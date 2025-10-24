@@ -2,7 +2,7 @@
 <H3>REGISTER NO: 212223240169</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:24-10-2025</H3>
-<H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
+<H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 <h3>Aim:</h3>
 To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques.
  
